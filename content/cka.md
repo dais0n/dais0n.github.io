@@ -9,7 +9,7 @@ title: "CKA合格までの勉強方法"
 
 CKADに合格してからKubernetesの仕組みにも興味を持ち、CKA(Certified Kubernetes Administrator)も受けました。スコアとしては86%で合格しました(合格は74%以上)。CKAに合格するまでにやったことを書いてみます。
 
-CKAD合格までの勉強方法は[こちら](https://blog.dais0n.net/posts/engineering/ckad/)にまとめてます。
+CKAD合格までの勉強方法は[こちら](/posts/engineering/ckad/)にまとめてます。
 
 ## 合格に必要な知識
 

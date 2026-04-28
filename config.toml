@@ -1,5 +1,5 @@
-baseURL = 'https://blog.dais0n.net/'
-title = 'blog.dais0n.net'
+baseURL = 'https://dais0n.github.io/'
+title = 'dais0n.github.io'
 
 [params.social]
 youtube = "UC0jYN0VlTIl0Tgg8Y41QuIw"
